@@ -1,0 +1,1 @@
+# Project-Voice-Recognition-Calculates-First-And-Second-Order-Equations
